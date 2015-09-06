@@ -1,0 +1,12 @@
+c:\users\johnh\documents\visual studio 2015\Projects\HiQCodeTest\HiQCodeTest\bin\Debug\HiQCodeTest.exe.config
+c:\users\johnh\documents\visual studio 2015\Projects\HiQCodeTest\HiQCodeTest\bin\Debug\HiQCodeTest.exe
+c:\users\johnh\documents\visual studio 2015\Projects\HiQCodeTest\HiQCodeTest\bin\Debug\HiQCodeTest.pdb
+c:\users\johnh\documents\visual studio 2015\Projects\HiQCodeTest\HiQCodeTest\obj\Debug\HiQCodeTest.csprojResolveAssemblyReference.cache
+c:\users\johnh\documents\visual studio 2015\Projects\HiQCodeTest\HiQCodeTest\obj\Debug\HiQCodeTest.exe
+c:\users\johnh\documents\visual studio 2015\Projects\HiQCodeTest\HiQCodeTest\obj\Debug\HiQCodeTest.pdb
+C:\Users\Johnh\Documents\Visual Studio 2015\Projects\HiQCodeTest-John Larsson\HiQCodeTest\bin\Debug\HiQCodeTest.exe.config
+C:\Users\Johnh\Documents\Visual Studio 2015\Projects\HiQCodeTest-John Larsson\HiQCodeTest\obj\Debug\HiQCodeTest.exe
+C:\Users\Johnh\Documents\Visual Studio 2015\Projects\HiQCodeTest-John Larsson\HiQCodeTest\obj\Debug\HiQCodeTest.pdb
+C:\Users\Johnh\Documents\Visual Studio 2015\Projects\HiQCodeTest-John Larsson\HiQCodeTest\bin\Debug\HiQCodeTest.exe
+C:\Users\Johnh\Documents\Visual Studio 2015\Projects\HiQCodeTest-John Larsson\HiQCodeTest\bin\Debug\HiQCodeTest.pdb
+C:\Users\Johnh\Documents\Visual Studio 2015\Projects\HiQCodeTest-John Larsson\HiQCodeTest\obj\Debug\HiQCodeTest.csprojResolveAssemblyReference.cache
